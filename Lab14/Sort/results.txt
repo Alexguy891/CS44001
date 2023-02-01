@@ -1,0 +1,12 @@
+Ran sort algorithms on 50,000 random elements
+Results:
+standard sort ran for 0.0135823 seconds
+bubble sort ran for 35.1387 seconds
+insert sort ran for 15.1507 seconds
+
+Standard sort has time complexity of O(nlog(n))
+Bubble sort has time complexity of O(n^2)
+Insert sort has time complexity of O(n^2)
+
+Standard sort clearly has a faster time complexity, thus the much faster result.
+Bubble and insert sort have similar time complexities, however bubble tends to be slower due to lots of swapping.

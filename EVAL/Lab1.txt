@@ -1,0 +1,4 @@
+Points: 10
+
+Comments: The program should exit if imporper number of arguments is given.
+	  You must close the file streams after you're done using them.

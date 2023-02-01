@@ -1,0 +1,5 @@
+Points: 10
+
+Comments: The making order display part would have been better if the program displayed who is preparing the order after
+	  asking the user is done selecting all the ingredients.
+	  It would have been better if you printed something like, taking drink or paying for drink in the notify of customer.

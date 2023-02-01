@@ -1,0 +1,7 @@
+Implement a program that reads in a text file, counts how many times each word occurs in the file and outputs the 
+words (and counts) in the increasing order of occurrence, i.e. the counts need to be output in sorted order: rare words 
+first. Word is any sequence of alphanumeric characters separateed by whitespace or punctuation marks.
+Whitespace and punctuation marks are to be discarded. That is, the punctuation marks should not 
+be counted either as a part of the word or as a separate word. You are free to make your program 
+case sensitive (Hello and hello are counted as separate words) or case insensitive. File name is supplied on 
+command line. You are to use the following classes.

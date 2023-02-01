@@ -1,0 +1,7 @@
+Points: 9
+
+Comments: You were supposed to have two different source files for the two assignments.
+	  Please be more careful in the future!
+
+	  The header file "student.hpp" for the second part is missing!
+

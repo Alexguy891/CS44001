@@ -1,0 +1,6 @@
+Points: 10
+
+Comments: In car buying program, to get a random model, it would be better to use the array to get a random model
+	  instead of creating new instances of factory and a car.
+
+	  In the square drawing part, it would have been better if FullyFilled and RandomFilled inherited from Filled.

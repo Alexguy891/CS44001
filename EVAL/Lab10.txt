@@ -1,0 +1,5 @@
+Points: 10
+
+Comments: In the scheduler part, you don't need a separate class for Exit state. Once a process exits, you
+	  can simpley report exited and deallocate the process.
+

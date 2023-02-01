@@ -1,0 +1,6 @@
+Points: 10
+
+Comments: In the apples program, you should set the initial value in accumulate to 0.0, a floating point value.
+	  In the peaches program, before advancing the iterator by "space" positions, you should check
+	  to see if there are enough space to jump or not.
+

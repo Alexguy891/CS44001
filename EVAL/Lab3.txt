@@ -1,0 +1,3 @@
+Points: 10
+
+Comments: You must deallocate the removed nodes for proper memory utilization!

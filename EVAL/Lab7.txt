@@ -1,0 +1,7 @@
+Points: 10
+
+Comments: In the erase method, you should return nullptr if there is no element past the bucket from
+	  which the element was removed.
+
+	  In rehash, you should perform rehash if n is larger than the current number of buckets not
+	  the other way around.
